@@ -25,6 +25,7 @@
 
 - この拡張機能はHTMLファイルのみに適用されます。
 - 変換されたBase64データはHTMLファイルに直接埋め込まれ、元の画像ファイルは変更されません。
+- この拡張機能はローカルのイメージファイルにのみ適用されることに注意してください。
 
 ## ライセンス
 
@@ -72,3 +73,5 @@ Apache License Version 2.0
 
 * このシステムではスクリプトの実行が無効になっているため、....
   * https://qiita.com/ponsuke0531/items/4629626a3e84bcd9398f
+
+Consider creating an English version of the README as well.
