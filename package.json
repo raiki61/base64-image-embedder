@@ -3,6 +3,11 @@
   "displayName": "base64-image-embedder",
   "description": "img in html convert to base64",
   "version": "0.0.1",
+  "publisher": "raiki-kiyomura",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/raiki61/base64-image-embedder.git"
+  },
   "engines": {
     "vscode": "^1.87.0"
   },
